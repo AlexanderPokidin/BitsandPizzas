@@ -4,7 +4,7 @@
     tools:context="com.example.alex.bitsandpizzas.MainActivity">
 
     <item
-        android:id="@+id/action_create_erder"
+        android:id="@+id/action_create_order"
         android:title="@string/action_create_order"
         android:icon="@drawable/ic_action_new_event"
         android:orderInCategory="1"
