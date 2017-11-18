@@ -6,6 +6,8 @@
     <string name="title_activity_order">Order Activity</string>
     <string name="action_share">Share</string>
     <string name="title_top">Top fragment</string>
+    <string name="title_activity_pizza_detail">*****</string>
+    <string name="welcome_text">We offer a range of freshly baked pizza and pasta dishes. Why not try some?</string>
     <string-array name="pizzas">
         <item>Diavolo</item>
         <item>Funghi</item>
